@@ -1,7 +1,3 @@
-theme: minima
-title: Yingxuan Wang
-description: Data Science | Machine Learning | Operations Research
-
 # Yingxuan Wang
 
 **Data Science | Machine Learning | Operations Research**
