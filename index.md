@@ -141,7 +141,7 @@ A data storytelling project using real-world datasets to communicate insights.
 Hunan University, Changsha, China  
 Expected graduation: 2028
 
-- Major: [Your major, e.g., Statistics / Data Science / Related Field]
+- Major:  Data Science
 - Relevant coursework: Calculus, Linear Algebra, Probability, Statistics, Programming, Data Analysis
 
 ---
