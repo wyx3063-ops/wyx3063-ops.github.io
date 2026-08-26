@@ -130,9 +130,14 @@ A data storytelling project using real-world datasets to communicate insights.
 
 ## Honors and Awards
 
-- Outstanding College Debate Team, Hunan University (2025)
-- [Other scholarships or awards you would like to highlight]
-
+- 2025.4 Hunan University Challenge Cup – Campus Competition – Silver Award; 
+- 2025.5 "Telling China's Stories Well" English Speech Contest – Campus Competition – Second Prize; 
+- 2025.8 Furong Student Program – "Outstanding Practice Team";
+- 2025.10 Hunan University Outstanding Student Cadre;
+- 2025.11 Hunan University Academic Innovation Special Scholarship;
+- 2025.12 National University Students' Data Element Competition – National Second Prize;
+- 2025.5 Zhengda Cup Market Research Competition – Hunan University Campus Competition – Second Prize;
+- 2026.6 Hunan University Mathematical Modeling Campus Competition – Second Prize; 
 ---
 
 ## Education
